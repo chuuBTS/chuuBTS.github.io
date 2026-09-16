@@ -1,0 +1,9 @@
+{% assign research_image = site.static_files | where: "path", include.path | first %}
+{% if research_image %}
+<figure class="research-figure">
+  <a href="{{ include.path | relative_url }}" aria-label="Open full-size framework image">
+    <img src="{{ include.path | relative_url }}" alt="{{ include.alt | escape }}" loading="lazy" style="display: block; width: 100%; height: auto;">
+  </a>
+  <figcaption>{{ include.caption | escape }}</figcaption>
+</figure>
+{% endif %}

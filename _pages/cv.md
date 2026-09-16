@@ -4,7 +4,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /cv-json/
-  - /awards/
 ---
 
 **Chuhan Huang**<br>
@@ -47,10 +46,10 @@ Led development of an IT helpdesk RAG system, processed 500+ multimodal document
 ## Selected projects
 
 **Pharmaceutical retail sales forecasting** - Core contributor - December 2022 - January 2023<br>
-Cleaned and analyzed data from 26 pharmacies, 9,697 products, and 533 brands; compared ARIMA and SARIMA forecasts. First Prize (top 5%) in the 2022 National College Student Data Analysis Competition. [Details](/projects/#forecasting)
+Cleaned and analyzed data from 26 pharmacies, 9,697 products, and 533 brands; compared ARIMA and SARIMA forecasts. First Prize (top 5%) in the 2022 National College Student Data Analysis Competition.
 
 **Shooting training system** - Frontend developer - June 2023 - May 2024<br>
-Built Vue.js interfaces and ECharts dashboards for training results and performance analysis. [Details](/projects/#shooting-system)
+Built Vue.js interfaces and ECharts dashboards for training results and performance analysis.
 
 ## Honors and awards
 

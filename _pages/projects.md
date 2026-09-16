@@ -1,5 +1,5 @@
 ---
-title: "Research & Projects"
+title: "Research"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -22,6 +22,8 @@ Alpha-VIS combines Monte Carlo tree search (MCTS) with Bayesian optimization (BO
 - Incorporated OCR coverage into evaluation to improve readability and consistency between charts and underlying data.
 - Achieved execution accuracy of **80.11%** for single-table queries and **71.86%** for multi-table queries on VisEval, with an average score of **4.14/5**.
 
+{% include research-figure.html path="/images/research/alpha-vis-framework.png" alt="Alpha-VIS framework showing dynamic multi-agent visualization workflows" caption="Overview of the Alpha-VIS framework." %}
+
 ## nvBench 2.0
 {: #nvbench}
 
@@ -38,22 +40,4 @@ Tianqi Luo, **Chuhan Huang**, Leixian Shen, Boyan Li, Shuyu Shen, Wei Zeng, Nan 
 - Contributed to a stepwise reasoning approach for improving text-to-visualization performance under ambiguity.
 - In project experiments, the Step-NL2VIS model reached **80.88% F1@5**, with a reported **21.85% improvement over GPT-4o**.
 
-## Pharmaceutical retail sales forecasting
-{: #forecasting}
-
-**Time-series analysis for pharmacy operations**<br>
-Core contributor - December 2022 - January 2023
-
-- Built a Python data-cleaning pipeline for historical sales from **26 stores**, covering **9,697 products** and **533 brands**.
-- Performed exploratory visualization, normality tests, correlation analysis, unit-root tests, and differencing after addressing missing values and outliers.
-- Compared and optimized ARIMA and SARIMA models to support sales forecasting and business decisions.
-- Received **First Prize (top 5%)** in the 2022 National College Student Data Analysis Competition.
-
-## Shooting training system
-{: #shooting-system}
-
-**Interactive performance visualization for training**<br>
-Frontend developer - June 2023 - May 2024
-
-- Built a Vue.js interface for user login, shooting practice, and competitions.
-- Integrated ECharts to visualize real-time results, historical records, and performance trends for training and instruction.
+{% include research-figure.html path="/images/research/nvbench2-framework.png" alt="nvBench 2.0 framework for ambiguous text-to-visualization queries" caption="Overview of the nvBench 2.0 framework." %}

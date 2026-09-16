@@ -1,9 +1,11 @@
 main:
   - title: "About"
     url: /
-  - title: "Research & Projects"
+  - title: "Research"
     url: /projects/
-  - title: "Experience"
+  - title: "Interships"
     url: /experience/
+  - title: "Honers"
+    url: /honors/
   - title: "CV"
     url: /cv/
