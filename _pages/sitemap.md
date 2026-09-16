@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - [About](/)
-- [Research](/projects/)
+- [Publications&Research](/projects/)
 - [Interships](/experience/)
 - [Honers](/honors/)
 - [Curriculum Vitae](/cv/)
