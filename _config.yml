@@ -23,7 +23,7 @@ repository               : "chuuBTS/chuuBTS.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chuhan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Data Science and AI Agent"
