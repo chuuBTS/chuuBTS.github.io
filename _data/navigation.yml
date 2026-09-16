@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /
-  - title: "Publications&Research"
+  - title: "Publications & My Research"
     url: /projects/
   - title: "Interships"
     url: /experience/
