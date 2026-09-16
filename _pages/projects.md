@@ -31,17 +31,16 @@ Core contributor &middot; Started March 2025
 
 <section class="research-project" markdown="1">
 
-## nvBench 2.0
+## nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning
 {: #nvbench}
 
-**Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning**<br>
-Research project &middot; July 2024 - February 2025
+July 2024 - February 2025
 {: .research-meta}
 
 Tianqi Luo, **Chuhan Huang**, Leixian Shen, Boyan Li, Shuyu Shen, Wei Zeng, Nan Tang, and Yuyu Luo.<br>
 <span class="publication-badge">NeurIPS 2025</span>
 
-[Paper](https://arxiv.org/abs/2503.12880){: .btn .btn--primary} [Project website](https://nvbench2.github.io/){: .btn}
+[Paper](https://arxiv.org/abs/2503.12880){: .btn .btn--primary} [Project website](https://nvbench2.github.io/){: .btn .btn--primary}
 
 {% include research-figure.html path="/images/research/nvbench2-framework.png" alt="nvBench 2.0 framework for ambiguous text-to-visualization queries" caption="Overview of the nvBench 2.0 framework." %}
 
