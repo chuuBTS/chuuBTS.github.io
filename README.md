@@ -7,7 +7,6 @@ An English academic and professional website built with Jekyll and Academic Page
 - `_pages/about.md`: biography, education, and selected research
 - `_pages/projects.md`: research and engineering projects
 - `_pages/experience.md`: internship and technical skills
-- `_pages/cv.md`: printable English CV and awards
 - `_data/navigation.yml`: main navigation
 - `_config.yml`: identity, contact details, and publication settings
 - `_sass/_personal.scss`: layout refinements and print styles
@@ -37,7 +36,7 @@ The English content was transcribed from the supplied Chinese resume. The owner 
 
 The nvBench paper title and author order follow https://arxiv.org/abs/2503.12880. As requested by the owner, the website lists the public author order without an authorship-rank claim. NeurIPS 2025 and the project experiment metrics come from the resume. Step-NL2VIS is the model name used in the resume; the current paper calls its model Step-Text2Vis.
 
-Unused template pages, sample publications, talks, posts, and sample downloads are excluded from the generated site in `_config.yml`. They remain in the repository for reference. Old `/year-archive/`, `/publications/`, `/portfolio/`, `/cv-json/`, and `/awards/` URLs redirect to the relevant personal pages.
+Unused template pages, sample publications, talks, posts, and sample downloads are excluded from the generated site in `_config.yml`. They remain in the repository for reference. Old `/year-archive/`, `/publications/`, `/portfolio/`, and `/awards/` URLs redirect to the relevant personal pages.
 
 ## Credits
 

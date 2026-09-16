@@ -15,7 +15,7 @@ I am **Chuhan Huang**, an MPhil student in **Data Science and Analytics** at **T
 
 My interests lie in **LLM agents**, **natural language interfaces for data visualization**, and **retrieval-augmented generation**. I build systems that help people turn questions and complex data into useful insights.
 
-[Explore my work](/projects/){: .btn .btn--primary} [View my CV](/cv/){: .btn}
+[Explore my work](/projects/){: .btn .btn--primary}
 </div>
 
 ## Education

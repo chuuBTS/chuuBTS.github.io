@@ -9,4 +9,3 @@ author_profile: true
 - [Publications&Research](/projects/)
 - [Interships](/experience/)
 - [Honers](/honors/)
-- [Curriculum Vitae](/cv/)
