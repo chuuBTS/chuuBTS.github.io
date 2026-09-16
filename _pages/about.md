@@ -22,11 +22,11 @@ My interests lie in **LLM agents**, **natural language interfaces for data visua
 
 **The Hong Kong University of Science and Technology (Guangzhou)**<br>
 Master's studies in Data Science and Analytics, Information Hub<br>
-September 2024 - October 15, 2026 (expected) - GPA: **3.867/4.3**
+September 2024 - October 2026 - GPA: **3.867/4.3**
 
 **Beijing Normal University, Zhuhai**<br>
 Bachelor's degree in Computer Science and Technology, School of Information Technology<br>
-September 2020 - June 2024 - Average: **89/100** - Rank: **2/134**
+September 2020 - June 2024 - GPA: **89/100** - Rank: **2/134**
 
 ## Certifications and languages
 
