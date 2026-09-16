@@ -27,6 +27,100 @@
 
 .author__avatar img { object-fit: cover; }
 
+/* Consistent actions, research previews, and publication hierarchy. */
+.page__content .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0.65em 1.15em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 9px;
+  background: transparent;
+  color: var(--global-text-color) !important;
+  font-size: 0.8em;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.04);
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+
+  &:hover {
+    border-color: var(--global-link-color);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  }
+  &.btn--primary {
+    background: #225b80;
+    border-color: #225b80;
+    color: #fff !important;
+    &:hover { background: #194664; }
+  }
+}
+
+.page__content a:focus-visible, .page__content button:focus-visible {
+  outline: 3px solid var(--global-link-color);
+  outline-offset: 4px;
+}
+
+.research-highlights { display: grid; gap: 1.25rem; }
+.research-preview {
+  padding: 1.2rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 12px;
+  h3 { margin: 0 0 1rem; font-size: 1.1em; }
+  .research-preview-image {
+    display: block;
+    padding: 0.5rem;
+    background: white;
+    border-radius: 6px;
+    img { display: block; width: 100%; height: auto; }
+  }
+  .research-detail-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    min-height: 44px;
+    margin-top: 0.6rem;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+.page__content .research-project {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 12px;
+  h2 { margin-top: 0; border-bottom: 0; padding-bottom: 0; scroll-margin-top: 5rem; }
+  h3 { font-size: 0.9em; margin-top: 1.5rem; }
+  .research-meta { font-size: 0.8em; color: var(--global-text-color-light); }
+  ul { padding-left: 1.2rem; font-size: 0.9em; line-height: 1.75; }
+  li { margin-bottom: 0.85rem; }
+  .publication-badge {
+    display: inline-block;
+    padding: 0.2em 0.7em;
+    margin-top: 0.6rem;
+    border: 1px solid var(--global-link-color);
+    border-radius: 5px;
+    color: var(--global-link-color);
+    font-size: 0.8em;
+    font-weight: 600;
+  }
+}
+.research-figure {
+  display: block;
+  margin: 1.5rem 0;
+  a { display: block; padding: 0.5rem; background: white; border-radius: 6px; }
+  figcaption { margin-top: 0.65rem; font-size: 0.75em; text-align: center; }
+}
+@media (max-width: 600px) {
+  .page__content .research-project, .research-preview { padding: 0.9rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .page__content .btn { transition: none; }
+}
+
 .page__content .award-list {
   list-style: none;
   padding: 0;
