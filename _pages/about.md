@@ -11,7 +11,7 @@ redirect_from:
 <div class="profile-intro" markdown="1">
 <p class="profile-eyebrow">DATA SCIENCE - LANGUAGE MODELS - VISUALIZATION</p>
 
-I am **Chuhan Huang**, a final-year master's student in **Data Science and Analytics** at **The Hong Kong University of Science and Technology (Guangzhou)**, with graduation expected on **October 15, 2026**. I received my bachelor's degree in Computer Science and Technology from Beijing Normal University, Zhuhai.
+I am **Chuhan Huang**, a mphil student in **Data Science and Analytics** at **The Hong Kong University of Science and Technology (Guangzhou)**. I received my bachelor's degree in Computer Science and Technology from Beijing Normal University, Zhuhai.
 
 My interests lie in **LLM agents**, **natural language interfaces for data visualization**, and **retrieval-augmented generation**. I build systems that help people turn questions and complex data into useful insights.
 
