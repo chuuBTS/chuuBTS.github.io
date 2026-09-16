@@ -1,0 +1,52 @@
+/* Small, theme-aware refinements for the personal site. */
+.profile-intro {
+  border-left: 4px solid var(--global-link-color);
+  padding: 0.25rem 0 0.25rem 1.4rem;
+  margin-bottom: 2rem;
+}
+
+.profile-eyebrow {
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--global-text-color-light);
+}
+
+.page__content {
+  overflow-wrap: break-word;
+
+  h2 {
+    margin-top: 2rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  li { margin-bottom: 0.5em; }
+  .btn { margin: 0.35rem 0.45rem 0.35rem 0; }
+}
+
+.author__avatar img { object-fit: cover; }
+
+@media (max-width: 600px) {
+  .profile-intro { padding-left: 1rem; }
+  .profile-eyebrow { letter-spacing: 0.04em; }
+}
+
+@media print {
+  .masthead, .sidebar, .page__footer, .cv-print,
+  .page__share, .page__related { display: none !important; }
+  html, body, #main, .page, .page__inner-wrap, .page__content {
+    background: white !important;
+    color: black !important;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    float: none !important;
+  }
+  body { font-size: 10pt; }
+  a { color: black !important; }
+  h2, h3 { break-after: avoid; }
+  p, li { orphans: 3; widows: 3; }
+  @page { margin: 16mm; }
+}
