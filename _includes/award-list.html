@@ -1,0 +1,9 @@
+<ul class="award-list">
+  {% for award in include.awards %}
+  <li class="award-entry">
+    <h3 class="award-title">{{ award.title | escape }}</h3>
+    <p class="award-meta"><span class="award-level">{{ award.award | escape }}</span><span class="award-date">{{ award.date | escape }}</span></p>
+    {% if award.context %}<p class="award-context">{{ award.context | escape }}</p>{% endif %}
+  </li>
+  {% endfor %}
+</ul>

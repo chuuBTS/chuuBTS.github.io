@@ -1,0 +1,61 @@
+scholarships:
+- title: Outstanding Graduate
+  date: June 15, 2024
+  award: Class of 2024
+  context: Beijing Normal University, Zhuhai
+- title: Special Prize Scholarship
+  date: December 15, 2023
+  award: Special Prize
+  context: 2022-2023 academic year
+- title: Special Prize Scholarship
+  date: December 15, 2022
+  award: Special Prize
+  context: 2021-2022 academic year
+- title: Second Prize Scholarship
+  date: November 15, 2021
+  award: Second Prize
+  context: 2020-2021 academic year
+competitions:
+- title: 14th Blue Bridge Cup National Software and Information Technology Competition
+  date: May 17, 2023
+  award: Second Prize
+  context: Guangdong Division | C/C++ Programming, University Group B
+- title: 20th IT Festival ACM Programming Competition
+  date: April 30, 2023
+  award: Third Prize
+  context: On-site competition | Beijing Normal University, Zhuhai
+- title: National College Student Digital Art and Design Competition
+  date: 2022-2023
+  award: Third Prize, Guangdong Division
+  context: Excellence Award, university round
+- title: National Students Data Analysis Competition
+  date: December 31, 2022
+  award: First Prize
+  context: Top 5%
+- title: National Students Data Analysis Popular Science Knowledge Competition
+  date: December 15, 2022
+  award: First Prize
+- title: China Collegiate Algorithm Design & Programming Challenge Contest
+  date: July 15, 2022
+  award: Bronze Prize
+  context: Summer contest
+- title: 13th Blue Bridge Cup National Software and Information Technology Competition
+  date: May 27, 2022
+  award: Third Prize
+  context: Guangdong Division | C/C++ Programming, University Group B
+- title: 19th IT Festival ACM Programming Competition
+  date: May 1, 2022
+  award: Third Prize
+  context: On-site competition | Beijing Normal University, Zhuhai
+- title: China Collegiate Algorithm Design & Programming Challenge Contest
+  date: March 29, 2022
+  award: Bronze Prize
+  context: Winter contest
+- title: Qingma Challenge Cup College Student Entrepreneurship Plan Competition
+  date: September 1, 2021
+  award: Third Prize
+  context: Beijing Normal University, Zhuhai
+- title: ACM Freshman Programming Competition
+  date: December 5, 2020
+  award: Third Prize
+  context: School of Information Technology, Beijing Normal University, Zhuhai
