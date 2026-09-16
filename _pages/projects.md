@@ -11,18 +11,17 @@ My work explores language-driven data analysis, visualization, and practical AI 
 
 <section class="research-project" markdown="1">
 
-## Alpha-VIS
+## Agentic-VIS: Search-Guided Natural Language to Visualization with Readability-Aware Optimization
 {: #alpha-vis}
 
-**Dynamic agent workflows for natural language to visualization**<br>
 Core contributor &middot; Started March 2025
 {: .research-meta}
 
-{% include research-figure.html path="/images/research/alpha-vis-framework.png" alt="Alpha-VIS framework showing dynamic multi-agent visualization workflows" caption="Overview of the Alpha-VIS framework." %}
+{% include research-figure.html path="/images/research/alpha-vis-framework.png" alt="Agentic-VIS framework showing dynamic multi-agent visualization workflows" caption="Overview of the Agentic-VIS framework." %}
 
 ### Method and contributions
 
-- **Workflow design.** Alpha-VIS combines Monte Carlo tree search (MCTS) with Bayesian optimization (BO) to dynamically construct multi-agent visualization workflows.
+- **Workflow design.** Agentic-VIS combines Monte Carlo tree search (MCTS) with Bayesian optimization (BO) to dynamically construct multi-agent visualization workflows.
 - **Agent architecture.** Independently designed and implemented eight Agent Space modules, covering query understanding, schema mapping, chart generation, and iterative refinement.
 - **Search and optimization.** Developed an MCTS + BO optimization framework that searches for agent workflows, with coarse-to-fine BO for fine-tuning parameters.
 - **Chart quality.** Incorporated OCR coverage into evaluation to improve readability and consistency between charts and underlying data.

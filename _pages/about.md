@@ -38,12 +38,12 @@ September 2020 - June 2024 - Average: **89/100** - Rank: **2/134**
 
 <div class="research-highlights">
   <article class="research-preview">
-    <h3>Alpha-VIS</h3>
-    <a class="research-preview-image" href="{{ '/projects/#alpha-vis' | relative_url }}" aria-label="View Alpha-VIS project details"><img src="{{ '/images/research/alpha-vis-framework.png' | relative_url }}" alt="Alpha-VIS framework" loading="lazy"></a>
+    <h3>Agentic-VIS: Search-Guided Natural Language to Visualization with Readability-Aware Optimization</h3>
+    <a class="research-preview-image" href="{{ '/projects/#alpha-vis' | relative_url }}" aria-label="View Agentic-VIS project details"><img src="{{ '/images/research/alpha-vis-framework.png' | relative_url }}" alt="Agentic-VIS framework" loading="lazy"></a>
     <a class="research-detail-link" href="{{ '/projects/#alpha-vis' | relative_url }}">View project details <span aria-hidden="true">&rarr;</span></a>
   </article>
   <article class="research-preview">
-    <h3>nvBench 2.0</h3>
+    <h3>nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning</h3>
     <a class="research-preview-image" href="{{ '/projects/#nvbench' | relative_url }}" aria-label="View nvBench 2.0 project details"><img src="{{ '/images/research/nvbench2-framework.png' | relative_url }}" alt="nvBench 2.0 framework" loading="lazy"></a>
     <a class="research-detail-link" href="{{ '/projects/#nvbench' | relative_url }}">View project details <span aria-hidden="true">&rarr;</span></a>
   </article>
@@ -55,4 +55,3 @@ September 2020 - June 2024 - Average: **89/100** - Rank: **2/134**
 **Web and visualization:** Vue.js, HTML/CSS, ECharts<br>
 **Tools:** Linux, Docker<br>
 **Applied experience:** LLM agents, RAG, OCR, data processing, time-series forecasting
-
